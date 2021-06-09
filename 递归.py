@@ -11,4 +11,5 @@ def sum_number(num):
     return res
 
 
+# 默认递归次数是有限的
 print(sum_number(100))
